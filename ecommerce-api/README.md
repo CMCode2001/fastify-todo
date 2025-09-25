@@ -268,39 +268,8 @@ Retourne :
 4. Démarrer : `docker-compose up -d`
 5. Exécuter les migrations : `docker-compose exec app npm run db:migrate`
 
-### CI/CD
 
-Le projet est prêt pour l'intégration avec :
-- GitHub Actions
-- GitLab CI
-- Jenkins
-- Docker Hub
-
-## 🤝 Contribution
-
-1. Fork le projet
-2. Créer une branche feature (`git checkout -b feature/AmazingFeature`)
-3. Commit les changements (`git commit -m 'Add some AmazingFeature'`)
-4. Push sur la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
 
 ## 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 📞 Support
-
-Pour toute question ou problème :
-- Créer une issue sur GitHub
-- Email : support@ecommerce-api.com
-
-## 🎯 Roadmap
-
-- [ ] Tests unitaires et d'intégration
-- [ ] Upload d'images pour les produits
-- [ ] Système de commandes
-- [ ] Gestion des stocks avancée
-- [ ] API de paiement
-- [ ] Notifications push
-- [ ] Métriques et analytics
-- [ ] API GraphQL alternative
