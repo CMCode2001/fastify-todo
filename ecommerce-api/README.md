@@ -1,6 +1,17 @@
 # E-commerce API
 
 Une API e-commerce complète construite avec Node.js, Fastify, MySQL, Prisma, Redis et JWT.
+# Sante de l'application `/health`
+![alt text](5.jpg)
+# Authentification Aplication `/register`
+![alt text](1-1.jpg)
+# Authentification Aplication `/login`
+![alt text](2.jpg)
+# Liste des produits GET: `/products`
+![alt text](4.jpg)
+# Creation de nouveau produits POST: `/products`
+![alt text](3.jpg)
+
 
 ## 🚀 Fonctionnalités
 
